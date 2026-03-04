@@ -1,0 +1,4 @@
+username,firstname,lastname,email,country_code,phone_number,entity_type,entity_code,role_template,org_name,referrer
+maerskfinisterre@synergypacificship.com,CV,MAERSK FINISTERRE,maerskfinisterre@synergypacificship.com,SG,87-0773063014,fleet,1,FleetRiskVessel,maersk,https://fleetrisk.maersk.com
+sonata@ship.limarko.com,CV,SONATA,sonata@ship.limarko.com,LT,37-052143964,fleet,1,FleetRiskVessel,maersk,https://fleetrisk.maersk.com
+zgcs@zhonggushipping.com,CV,ZHONG GU CHANG SHA,zgcs@zhonggushipping.com,CN,87-0773063793,fleet,1,FleetRiskVessel,maersk,https://fleetrisk.maersk.com
